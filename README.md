@@ -1,1 +1,1 @@
-# JavaScript
+These projects are made during the course named "The Complete JavaScript Course 2022: From Zero to Expert!" from Udemy. During these projects there are used the basic functionalities of JavaScipt, such as DOM manipulation, event handlering and implementing functions to improve the websites.
